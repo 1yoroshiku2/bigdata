@@ -27,12 +27,12 @@
 </property>
 <property>
 	<name>fs.obs.access.key</name>
-	<value>FMNTOCVPPDZJ1MMAYVRL</value>
+	<value>xxxxxxxxxxxxxx</value>
 	<description>HuaweiCloud Access Key Id</description>
 </property>
 <property>
 	<name>fs.obs.secret.key</name>
-	<value>Qm8zLmSWj8io0lwnxMnO57G0nqmjD9Q7OxJRMjja</value>
+	<value>xxxxxxxxxxxxxx</value>
 	<description>HuaweiCloud Secret Access Key</description>
 </property>
 <property>
