@@ -1,0 +1,43 @@
+nohup: 忽略输入
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+which: no hbase in (/home/hadoop/.local/bin:/home/hadoop/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin)
+2024-04-18 17:42:20: Starting HiveServer2
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Hive Session ID = 47057612-4cc5-49a4-ba0e-84588cfaf283
+Hive Session ID = fbf8193b-d8b5-470b-af2f-8345fb83c417
+Hive Session ID = c189fe01-a97c-4f66-8b1b-106c77bca2e5
+Hive Session ID = fb2dbc95-7824-4c80-a06e-a6fc8a775e26
+Hive Session ID = 6ac2d1bd-c890-47aa-a98c-78801f800ec9
+Hive Session ID = 38af04e4-9af2-41da-9d13-89a0d6d74bf1
+Hive Session ID = cd859916-29c3-4158-aba9-f3c6b42a98bc
+Hive Session ID = b3823b78-01bc-4181-86b1-0eec47c2b4be
+Hive Session ID = da9a6162-0a04-4068-9080-18d507f92448
+Hive Session ID = f5a599d4-c6a3-4071-98e4-5d82e1623a74
+Hive Session ID = da75f12f-1e81-42e9-a392-86c20fc92d5b
+Hive Session ID = baca944d-7ff6-430d-babc-6b28282ed331
+Hive Session ID = 191659ea-0544-4408-a002-bae56a41290d
+Hive Session ID = 88a059b1-0493-44c3-9e6e-4568bcd8d41e
+Hive Session ID = 75d845f5-9f2a-445e-a776-c2a7cd89b787
+Hive Session ID = 89180868-edf7-472f-af76-22161774d73d
+Hive Session ID = d6618d20-81fc-4010-a97c-52a790cca877
+Hive Session ID = 8c5a3501-db2b-42f5-aa89-459bead8b3ba
+Hive Session ID = 6d84383c-56c9-41dd-94b9-05c4e2a6b384
+Hive Session ID = 4d93e5f9-6aec-4a8f-8e63-35e60005cb17
+Hive Session ID = 1e314a6b-b607-40b2-9468-03a8248af844
+Hive Session ID = f0fbf66d-11a7-44be-9f52-a491833c01e4
+Hive Session ID = 84e4ec96-5c21-41aa-8cd4-191b24aa27ce
+Hive Session ID = eaf5f4c3-66a7-40d3-8218-d6b69c6aa647
+Hive Session ID = d80416f1-e04c-4d1a-a3ec-4fcb1182d8fe
+Hive Session ID = 46fc57f7-a2e5-4a3b-bd09-ca397041d31b
+Hive Session ID = 70b4e751-3942-41f2-b393-9360587407e3
+Hive Session ID = f75e668a-1edc-4db2-a873-69b023ec4e68
+Hive Session ID = 6e839bed-ad60-442d-934b-87d09eb78e74
+Hive Session ID = 31820a51-1568-4b8d-a542-01ef40ee724b

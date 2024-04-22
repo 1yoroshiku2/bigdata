@@ -1,0 +1,420 @@
+nohup: 忽略输入
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+which: no hbase in (/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin)
+2024-04-18 16:24:10: Starting HiveServer2
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Hive Session ID = c4a09dd9-d2d0-4d26-a496-21f46b7d0c98
+Hive Session ID = dffb6a35-7bcc-40c0-8694-fd80d81d7351
+Hive Session ID = 3861723d-5648-45e5-90a4-9a374daa0517
+Hive Session ID = d0675099-0fcd-48d1-b859-58dc8ae38aa9
+Hive Session ID = a9f9e47b-ea05-4373-89eb-e33b57daeef9
+Hive Session ID = 4a825b37-031b-469f-8823-b50cd16f553f
+Hive Session ID = e8d5c064-3160-4e1f-8fd7-b37d88be5e94
+Hive Session ID = 99e4eaf6-c7b4-406e-8e24-1abbfeea678e
+Hive Session ID = bb49e4e2-f80a-4bad-9ec0-487a3eab6c31
+Hive Session ID = 5ef6c494-457d-47af-aafb-dcfdfbbe7afa
+Hive Session ID = 20119709-f623-45ba-9ff0-a2ee617e25c5
+Hive Session ID = d7da5cee-451d-4e42-a01c-ff7a344099a8
+Hive Session ID = 2dfec7a1-328c-4dda-b143-90c06e752b3e
+Hive Session ID = 899beb43-e80a-478e-9782-7d61fc0e1057
+Hive Session ID = 1b9b47da-fd5f-48ea-9e10-1ce5cf1d1a62
+Hive Session ID = bb1b25d4-5d69-482d-80ea-2c8e2bd9fc29
+Hive Session ID = 752dd6bd-573c-44f3-b2ea-534cc6e29cc8
+Hive Session ID = 0bfd9178-7c68-4c0f-84c1-8077de0c6613
+Hive Session ID = 8ab876f4-501f-4b95-95e6-05615103c511
+Hive Session ID = 6ab865b0-4c5a-4c21-baca-f88f63f9c543
+Hive Session ID = 80be265d-387a-41e9-a172-c7149111a689
+Hive Session ID = b5332e35-504c-43f4-971e-3212f0d90b97
+Hive Session ID = 721590d3-4e7a-4154-921d-a716d243ecc5
+Hive Session ID = f40c0520-4c24-46c7-898e-ad49ac2d882a
+Hive Session ID = ac7036bd-2606-49fa-9d04-f74b1200f7e1
+Hive Session ID = e75979cc-924d-48a1-b16f-47dc6d08ecd2
+Hive Session ID = 99040ab3-64f7-4a62-b8c9-b149eacc99bb
+Hive Session ID = 589efb68-4dc8-4596-bb25-29f0d1c1b620
+Hive Session ID = 119dc605-36a9-4b94-8def-41dc07b3783b
+Hive Session ID = e0df7e33-63dd-4d6a-8323-1a2affa26efc
+Hive Session ID = 4b895dd0-b8a4-40d7-83c8-f4441405945c
+Hive Session ID = b87ae23f-71a5-4bdb-8999-a08ddb23dbef
+Hive Session ID = a80579b3-abbe-4da9-a47d-3ccca9b672bb
+Hive Session ID = eca51d90-62b6-4152-b6d2-9be7242d2803
+Hive Session ID = 37f99d43-85fe-4283-8e23-7071e8819c65
+Hive Session ID = c5c9f499-2313-4008-9ddf-02f0003963ae
+Hive Session ID = d653a5fc-dc00-43f2-9803-f315f2ebc10b
+Hive Session ID = 00b976eb-4fc9-4fed-8759-02191e80d108
+Hive Session ID = e5d5c1d5-e5ba-4031-8f71-937ee361563a
+Hive Session ID = 8bd71e24-5154-4f80-a066-c7f883fb1128
+Hive Session ID = caeee7e9-9d5e-422b-b573-74d4fbc213b6
+Hive Session ID = fc64a2aa-9e2c-40c3-8c07-d4c4cdd13583
+Hive Session ID = 59e7ac7e-28b1-4177-9d4c-486aab9af3f7
+Hive Session ID = f4126220-02e5-4b2a-80da-48c347dae96b
+Hive Session ID = 14d69731-9723-44aa-b042-99aa9fb28701
+Hive Session ID = a33d82a7-2737-4395-a105-b7f948b40d93
+Hive Session ID = 0d57d4e9-133a-45c1-856a-6ec5b422e5b7
+Hive Session ID = f924e3b9-8eb6-41b9-89e3-c750d63768c4
+nohup: 忽略输入
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+which: no hbase in (/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin)
+2024-04-18 16:48:50: Starting HiveServer2
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Hive Session ID = 6fefe2d2-b952-4d46-ba6f-9a8eae91db09
+Hive Session ID = 6ec45153-91af-48e1-8e16-a9428b2383cf
+nohup: 忽略输入
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+which: no hbase in (/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin)
+2024-04-18 16:50:23: Starting HiveServer2
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Hive Session ID = e03a5f07-8958-4790-b5ff-e1a1dbc5678b
+Hive Session ID = 322147d3-9953-4600-a0fb-722a28ed3b22
+Hive Session ID = b9c52df6-5e56-4417-a365-5bc863c3b8dc
+Hive Session ID = 1c2511ba-b31c-4b08-8e34-fcdb598a1f21
+Hive Session ID = a35361eb-e19e-4a40-96e5-328e4fad8eb1
+Hive Session ID = aec3661e-e82c-4680-a837-1c7c8824e79e
+Hive Session ID = 97205954-ef4b-4b0d-8d0e-84fe61919ba9
+Hive Session ID = ba75967d-08d9-4936-8a0e-1fedd3be04e7
+nohup: 忽略输入
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+which: no hbase in (/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin)
+2024-04-18 16:55:22: Starting HiveServer2
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Hive Session ID = 4038c573-a903-4517-9bde-f8a63e2ac169
+Hive Session ID = 2deb6992-abad-40c6-8f9b-96a7e5f8a07c
+Hive Session ID = 6d7bea1f-2ac3-4b26-ba69-5022d3191087
+Hive Session ID = 882f4499-11f8-448d-a895-74fef8bf5f1b
+Hive Session ID = dc4ae856-c48b-45dc-b2a9-538725b917e7
+Hive Session ID = bbf7a58b-5633-445d-978d-040ec9857ecf
+Hive Session ID = d7c3532f-436c-41ae-a20e-4e75ee540bf5
+Hive Session ID = cf53b62b-a18f-45da-8eb3-451c8b8b76e8
+Hive Session ID = 2c07eba0-e191-42aa-9209-51c4dc9dde68
+Hive Session ID = bc190f9d-e522-43d4-b052-1ac59eae30f2
+Hive Session ID = 2f1546aa-4986-4890-995e-9a413271b8d9
+Hive Session ID = d21049fc-10f2-4465-8831-ba9bfa368446
+Hive Session ID = 66a5e88b-f5e4-46e2-a793-9936a80df352
+Hive Session ID = 6615475a-2956-4a8e-a0c0-e6d5c301a32c
+Hive Session ID = 0f141ba7-9492-4f09-bd8b-3f5791e91035
+Hive Session ID = 440d8333-fc37-429d-839b-2c477e068b00
+Hive Session ID = fe4c7fdd-c4e3-446e-a24e-b361536b89cc
+Hive Session ID = 9d7a17bb-f4dd-429c-a222-2f5d865c23a9
+Hive Session ID = 4c244ecf-be52-48e3-84ad-36c32ba377ed
+Hive Session ID = 389f6ccd-f70c-4c9f-9ea1-e81cebde92cc
+Hive Session ID = 535ddf57-898e-4f64-b0bf-aa09a630f4c5
+Hive Session ID = 9f15ef9d-451c-4267-8bf4-7890effb44c1
+Hive Session ID = 369a7ec1-e673-486b-8e53-ce3d01c17e02
+Hive Session ID = d7f07a49-d5a8-42b9-91e7-93fd596b0f03
+Hive Session ID = e90cd5e6-3d79-48c7-93ab-07fdeaa8b72f
+Hive Session ID = d5057960-cdf9-4913-8074-88bf8394f02c
+Hive Session ID = a2712298-32d3-4ae0-8a72-48f2f82a312b
+Hive Session ID = da5bf28c-6882-45b5-8cb6-ef15447ec01d
+Hive Session ID = 3fac4e10-2c96-42c0-a024-2f09ba315442
+Hive Session ID = 8ff96131-16d8-4633-a340-5cbfc9b5cb91
+Hive Session ID = 4c54237c-d967-4d7e-86ef-612771f2f5b0
+Hive Session ID = 365ab32f-33ea-4615-afdc-0b07f7a82813
+Hive Session ID = ee0d7689-c9c1-4bdf-8d12-f1e510effe37
+Hive Session ID = c08a8f8f-7228-4170-8099-8ef99c5886f1
+Hive Session ID = 02be6d5a-2dde-4899-8f33-c07535a42568
+Hive Session ID = 709f9126-206b-4256-8bc0-37d8e899078d
+Hive Session ID = 68843d9c-107f-48af-b45b-87c1218a212b
+Hive Session ID = 488f6ffa-8c54-4c8d-b167-73394a7d5ff0
+Hive Session ID = ed1f4162-ef84-4b74-8b01-84dc06f4e280
+Hive Session ID = 7f87540b-bf7f-408c-ab5c-56465ede77b6
+Hive Session ID = f47f5190-cb21-4271-b876-47b082fbcc1e
+Hive Session ID = 1289045a-21df-4c7d-98cc-e8c15e0f2a1a
+Hive Session ID = 6a83cd72-9dc6-4558-9ade-53a653853009
+Hive Session ID = 275384a0-d9ba-421c-98bd-82ae92e12b5b
+Hive Session ID = e58440f8-3792-4271-af1f-80ca5abebe15
+Hive Session ID = 80db68bd-b582-4ed4-9b98-17ea83306cea
+Hive Session ID = 11b83abe-418d-4e25-9169-7f86455f60c8
+Hive Session ID = 727ea82e-4112-432b-840f-3ef2c2c95f9e
+Hive Session ID = 97449fb7-bd7d-4fec-90d7-23f919daad2a
+Hive Session ID = 2a8a0afe-e89d-4ee6-b9ce-045bc7f5d120
+Hive Session ID = fe0815f2-04b3-457b-91ab-f9b0da00eb22
+Hive Session ID = acd8c9c0-6202-4fe0-81a1-df3079be9665
+Hive Session ID = 7f24d408-13bc-4542-8d9b-ceeb372a8edb
+Hive Session ID = 67e2dcc9-3c93-4ddb-8567-dd3d2fe550b0
+Hive Session ID = ae1f5ce0-8929-4d51-b1ef-652ef0015593
+Hive Session ID = 43b92406-b181-44cb-8db9-344ac0bf21ba
+Hive Session ID = d54ee73c-3301-4286-bb60-5c1886b30a8a
+Hive Session ID = 47a06f36-3b58-4953-b9a0-d86119db59d4
+Hive Session ID = 77cdb104-e8c3-4a95-80f6-7a5fd89f791d
+Hive Session ID = 60026350-a602-4901-8b26-d119e0a6b12d
+nohup: ignoring input
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+which: no hbase in (/home/hadoop/.local/bin:/home/hadoop/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin)
+2024-04-19 10:51:02: Starting HiveServer2
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Hive Session ID = 147398b5-923e-4baa-8d36-e182546ec4d5
+Hive Session ID = 2fedd7d0-d446-4187-bb5d-d2d8e6149246
+Hive Session ID = d3e5fe4e-817c-4131-a511-f82c06b0d408
+Hive Session ID = 739b203e-8e6d-48eb-be52-6a37271b5363
+Hive Session ID = dad241a1-185a-436b-bd12-a92156a9e129
+Hive Session ID = 7cbc8ced-2acf-40de-8443-797c4c140a17
+Hive Session ID = fcedf953-3bd2-4456-8090-dc1f78969161
+Hive Session ID = e55864e1-b899-4417-929c-d58a74fad130
+Hive Session ID = 6b51fa1c-eb47-46aa-9adf-6c85f6ff0708
+Hive Session ID = 4c4a029f-3603-40f6-8324-9ff281941212
+Hive Session ID = d585fce4-0ecf-479d-bdeb-cf2166feeef0
+Hive Session ID = 24ddfa4c-84bb-4add-97b0-adfbaa17c113
+Hive Session ID = 583d2c7a-84f7-40b3-aaf3-d047a66e117d
+Hive Session ID = d22edf12-71b6-4f4d-a18a-148c6e0159f2
+nohup: 忽略输入
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+which: no hbase in (/home/hadoop/.local/bin:/home/hadoop/bin:/data/apache-hive-3.1.2-bin/bin:/data/apache-zookeeper-3.6.3-bin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin:/data/hadoop-3.1.3/bin:/data/hadoop-3.1.3/sbin)
+2024-04-19 16:45:33: Starting HiveServer2
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/data/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/data/hadoop-3.1.3/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Hive Session ID = aff27577-c48e-4dce-91cb-5cc560bf7195
+Hive Session ID = e6d96c63-b8a0-4910-8589-29f9cdf03ae9
+Hive Session ID = 3aa1517a-674b-40d8-8a31-563c164cbc27
+Hive Session ID = 0ec724c7-af0a-48be-85dd-d0c3808d33ae
+OK
+OK
+OK
+Query ID = hadoop_20240419165048_a0c71ffd-f880-4652-94d0-d56a74b3d5d6
+Total jobs = 3
+Launching Job 1 out of 3
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Job running in-process (local Hadoop)
+2024-04-19 16:50:53,636 Stage-1 map = 0%,  reduce = 0%
+2024-04-19 16:50:54,643 Stage-1 map = 100%,  reduce = 100%
+Ended Job = job_local1460500990_0001
+Stage-4 is selected by condition resolver.
+Stage-3 is filtered out by condition resolver.
+Stage-5 is filtered out by condition resolver.
+Moving data to directory obs://hive-test1111/Alpha/ods_spark_jvm_profile/ymd=20240419/.hive-staging_hive_2024-04-19_16-50-48_467_3286240175083686877-1/-ext-10000
+Loading data to table ods.ods_spark_jvm_profile partition (ymd=20240419)
+FAILED: Execution Error, return code 1 from org.apache.hadoop.hive.ql.exec.MoveTask. MetaException(message:java.lang.RuntimeException: java.lang.ClassNotFoundException: Class org.apache.hadoop.fs.obs.OBSFileSystem not found)
+MapReduce Jobs Launched: 
+Stage-Stage-1:  HDFS Read: 0 HDFS Write: 0 SUCCESS
+Total MapReduce CPU Time Spent: 0 msec
+OK
+OK
+Query ID = hadoop_20240419165106_c79f0bb4-a85c-437f-950d-e5fb911b7200
+Total jobs = 3
+Launching Job 1 out of 3
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Job running in-process (local Hadoop)
+2024-04-19 16:51:08,627 Stage-1 map = 100%,  reduce = 100%
+Ended Job = job_local1019485811_0002
+Stage-4 is selected by condition resolver.
+Stage-3 is filtered out by condition resolver.
+Stage-5 is filtered out by condition resolver.
+Moving data to directory obs://hive-test1111/Alpha/ods_spark_jvm_profile/ymd=20240419/.hive-staging_hive_2024-04-19_16-51-06_673_5337812306131261823-1/-ext-10000
+Loading data to table ods.ods_spark_jvm_profile partition (ymd=20240419)
+FAILED: Execution Error, return code 1 from org.apache.hadoop.hive.ql.exec.MoveTask. MetaException(message:java.lang.RuntimeException: java.lang.ClassNotFoundException: Class org.apache.hadoop.fs.obs.OBSFileSystem not found)
+MapReduce Jobs Launched: 
+Stage-Stage-1:  HDFS Read: 0 HDFS Write: 0 SUCCESS
+Total MapReduce CPU Time Spent: 0 msec
+OK
+NoViableAltException(152@[917:1: ddlStatement : ( createDatabaseStatement | switchDatabaseStatement | dropDatabaseStatement | createTableStatement | dropTableStatement | truncateTableStatement | alterStatement | descStatement | showStatement | metastoreCheck | createViewStatement | createMaterializedViewStatement | dropViewStatement | dropMaterializedViewStatement | createFunctionStatement | createMacroStatement | dropFunctionStatement | reloadFunctionStatement | dropMacroStatement | analyzeStatement | lockStatement | unlockStatement | lockDatabase | unlockDatabase | createRoleStatement | dropRoleStatement | ( grantPrivileges )=> grantPrivileges | ( revokePrivileges )=> revokePrivileges | showGrants | showRoleGrants | showRolePrincipals | showRoles | grantRole | revokeRole | setRole | showCurrentRole | abortTransactionStatement | killQueryStatement | resourcePlanDdlStatements );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.ddlStatement(HiveParser.java:4244)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.execStatement(HiveParser.java:2494)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.statement(HiveParser.java:1420)
+	at org.apache.hadoop.hive.ql.parse.ParseDriver.parse(ParseDriver.java:220)
+	at org.apache.hadoop.hive.ql.parse.ParseUtils.parse(ParseUtils.java:74)
+	at org.apache.hadoop.hive.ql.parse.ParseUtils.parse(ParseUtils.java:67)
+	at org.apache.hadoop.hive.ql.Driver.compile(Driver.java:616)
+	at org.apache.hadoop.hive.ql.Driver.compileInternal(Driver.java:1826)
+	at org.apache.hadoop.hive.ql.Driver.compileAndRespond(Driver.java:1773)
+	at org.apache.hadoop.hive.ql.Driver.compileAndRespond(Driver.java:1768)
+	at org.apache.hadoop.hive.ql.reexec.ReExecDriver.compileAndRespond(ReExecDriver.java:126)
+	at org.apache.hive.service.cli.operation.SQLOperation.prepare(SQLOperation.java:197)
+	at org.apache.hive.service.cli.operation.SQLOperation.runInternal(SQLOperation.java:260)
+	at org.apache.hive.service.cli.operation.Operation.run(Operation.java:247)
+	at org.apache.hive.service.cli.session.HiveSessionImpl.executeStatementInternal(HiveSessionImpl.java:541)
+	at org.apache.hive.service.cli.session.HiveSessionImpl.executeStatementAsync(HiveSessionImpl.java:527)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.invoke(HiveSessionProxy.java:78)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.access$000(HiveSessionProxy.java:36)
+	at org.apache.hive.service.cli.session.HiveSessionProxy$1.run(HiveSessionProxy.java:63)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1729)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.invoke(HiveSessionProxy.java:59)
+	at com.sun.proxy.$Proxy30.executeStatementAsync(Unknown Source)
+	at org.apache.hive.service.cli.CLIService.executeStatementAsync(CLIService.java:312)
+	at org.apache.hive.service.cli.thrift.ThriftCLIService.ExecuteStatement(ThriftCLIService.java:562)
+	at org.apache.hive.service.rpc.thrift.TCLIService$Processor$ExecuteStatement.getResult(TCLIService.java:1557)
+	at org.apache.hive.service.rpc.thrift.TCLIService$Processor$ExecuteStatement.getResult(TCLIService.java:1542)
+	at org.apache.thrift.ProcessFunction.process(ProcessFunction.java:39)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:39)
+	at org.apache.hive.service.auth.TSetIpAddressProcessor.process(TSetIpAddressProcessor.java:56)
+	at org.apache.thrift.server.TThreadPoolServer$WorkerProcess.run(TThreadPoolServer.java:286)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+FAILED: ParseException line 1:5 cannot recognize input near 'SHOW' 'INDEX' 'ON' in ddl statement
+OK
+Query ID = hadoop_20240419165118_70a8e945-28e6-40ab-9b73-8ce04db0cc7f
+Total jobs = 3
+Launching Job 1 out of 3
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Job running in-process (local Hadoop)
+2024-04-19 16:51:20,862 Stage-1 map = 100%,  reduce = 100%
+Ended Job = job_local1167122088_0003
+Stage-4 is selected by condition resolver.
+Stage-3 is filtered out by condition resolver.
+Stage-5 is filtered out by condition resolver.
+Moving data to directory obs://hive-test1111/Alpha/ods_spark_jvm_profile/ymd=20240419/.hive-staging_hive_2024-04-19_16-51-18_974_8235979926370997575-1/-ext-10000
+Loading data to table ods.ods_spark_jvm_profile partition (ymd=20240419)
+MapReduce Jobs Launched: 
+Stage-Stage-1:  HDFS Read: 0 HDFS Write: 0 SUCCESS
+Total MapReduce CPU Time Spent: 0 msec
+OK
+OK
+OK
+NoViableAltException(152@[917:1: ddlStatement : ( createDatabaseStatement | switchDatabaseStatement | dropDatabaseStatement | createTableStatement | dropTableStatement | truncateTableStatement | alterStatement | descStatement | showStatement | metastoreCheck | createViewStatement | createMaterializedViewStatement | dropViewStatement | dropMaterializedViewStatement | createFunctionStatement | createMacroStatement | dropFunctionStatement | reloadFunctionStatement | dropMacroStatement | analyzeStatement | lockStatement | unlockStatement | lockDatabase | unlockDatabase | createRoleStatement | dropRoleStatement | ( grantPrivileges )=> grantPrivileges | ( revokePrivileges )=> revokePrivileges | showGrants | showRoleGrants | showRolePrincipals | showRoles | grantRole | revokeRole | setRole | showCurrentRole | abortTransactionStatement | killQueryStatement | resourcePlanDdlStatements );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.ddlStatement(HiveParser.java:4244)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.execStatement(HiveParser.java:2494)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.statement(HiveParser.java:1420)
+	at org.apache.hadoop.hive.ql.parse.ParseDriver.parse(ParseDriver.java:220)
+	at org.apache.hadoop.hive.ql.parse.ParseUtils.parse(ParseUtils.java:74)
+	at org.apache.hadoop.hive.ql.parse.ParseUtils.parse(ParseUtils.java:67)
+	at org.apache.hadoop.hive.ql.Driver.compile(Driver.java:616)
+	at org.apache.hadoop.hive.ql.Driver.compileInternal(Driver.java:1826)
+	at org.apache.hadoop.hive.ql.Driver.compileAndRespond(Driver.java:1773)
+	at org.apache.hadoop.hive.ql.Driver.compileAndRespond(Driver.java:1768)
+	at org.apache.hadoop.hive.ql.reexec.ReExecDriver.compileAndRespond(ReExecDriver.java:126)
+	at org.apache.hive.service.cli.operation.SQLOperation.prepare(SQLOperation.java:197)
+	at org.apache.hive.service.cli.operation.SQLOperation.runInternal(SQLOperation.java:260)
+	at org.apache.hive.service.cli.operation.Operation.run(Operation.java:247)
+	at org.apache.hive.service.cli.session.HiveSessionImpl.executeStatementInternal(HiveSessionImpl.java:541)
+	at org.apache.hive.service.cli.session.HiveSessionImpl.executeStatementAsync(HiveSessionImpl.java:527)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.invoke(HiveSessionProxy.java:78)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.access$000(HiveSessionProxy.java:36)
+	at org.apache.hive.service.cli.session.HiveSessionProxy$1.run(HiveSessionProxy.java:63)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1729)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.invoke(HiveSessionProxy.java:59)
+	at com.sun.proxy.$Proxy30.executeStatementAsync(Unknown Source)
+	at org.apache.hive.service.cli.CLIService.executeStatementAsync(CLIService.java:312)
+	at org.apache.hive.service.cli.thrift.ThriftCLIService.ExecuteStatement(ThriftCLIService.java:562)
+	at org.apache.hive.service.rpc.thrift.TCLIService$Processor$ExecuteStatement.getResult(TCLIService.java:1557)
+	at org.apache.hive.service.rpc.thrift.TCLIService$Processor$ExecuteStatement.getResult(TCLIService.java:1542)
+	at org.apache.thrift.ProcessFunction.process(ProcessFunction.java:39)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:39)
+	at org.apache.hive.service.auth.TSetIpAddressProcessor.process(TSetIpAddressProcessor.java:56)
+	at org.apache.thrift.server.TThreadPoolServer$WorkerProcess.run(TThreadPoolServer.java:286)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+FAILED: ParseException line 1:5 cannot recognize input near 'SHOW' 'INDEX' 'ON' in ddl statement
+OK
+OK
+NoViableAltException(152@[917:1: ddlStatement : ( createDatabaseStatement | switchDatabaseStatement | dropDatabaseStatement | createTableStatement | dropTableStatement | truncateTableStatement | alterStatement | descStatement | showStatement | metastoreCheck | createViewStatement | createMaterializedViewStatement | dropViewStatement | dropMaterializedViewStatement | createFunctionStatement | createMacroStatement | dropFunctionStatement | reloadFunctionStatement | dropMacroStatement | analyzeStatement | lockStatement | unlockStatement | lockDatabase | unlockDatabase | createRoleStatement | dropRoleStatement | ( grantPrivileges )=> grantPrivileges | ( revokePrivileges )=> revokePrivileges | showGrants | showRoleGrants | showRolePrincipals | showRoles | grantRole | revokeRole | setRole | showCurrentRole | abortTransactionStatement | killQueryStatement | resourcePlanDdlStatements );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.ddlStatement(HiveParser.java:4244)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.execStatement(HiveParser.java:2494)
+	at org.apache.hadoop.hive.ql.parse.HiveParser.statement(HiveParser.java:1420)
+	at org.apache.hadoop.hive.ql.parse.ParseDriver.parse(ParseDriver.java:220)
+	at org.apache.hadoop.hive.ql.parse.ParseUtils.parse(ParseUtils.java:74)
+	at org.apache.hadoop.hive.ql.parse.ParseUtils.parse(ParseUtils.java:67)
+	at org.apache.hadoop.hive.ql.Driver.compile(Driver.java:616)
+	at org.apache.hadoop.hive.ql.Driver.compileInternal(Driver.java:1826)
+	at org.apache.hadoop.hive.ql.Driver.compileAndRespond(Driver.java:1773)
+	at org.apache.hadoop.hive.ql.Driver.compileAndRespond(Driver.java:1768)
+	at org.apache.hadoop.hive.ql.reexec.ReExecDriver.compileAndRespond(ReExecDriver.java:126)
+	at org.apache.hive.service.cli.operation.SQLOperation.prepare(SQLOperation.java:197)
+	at org.apache.hive.service.cli.operation.SQLOperation.runInternal(SQLOperation.java:260)
+	at org.apache.hive.service.cli.operation.Operation.run(Operation.java:247)
+	at org.apache.hive.service.cli.session.HiveSessionImpl.executeStatementInternal(HiveSessionImpl.java:541)
+	at org.apache.hive.service.cli.session.HiveSessionImpl.executeStatementAsync(HiveSessionImpl.java:527)
+	at sun.reflect.GeneratedMethodAccessor43.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.invoke(HiveSessionProxy.java:78)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.access$000(HiveSessionProxy.java:36)
+	at org.apache.hive.service.cli.session.HiveSessionProxy$1.run(HiveSessionProxy.java:63)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1729)
+	at org.apache.hive.service.cli.session.HiveSessionProxy.invoke(HiveSessionProxy.java:59)
+	at com.sun.proxy.$Proxy30.executeStatementAsync(Unknown Source)
+	at org.apache.hive.service.cli.CLIService.executeStatementAsync(CLIService.java:312)
+	at org.apache.hive.service.cli.thrift.ThriftCLIService.ExecuteStatement(ThriftCLIService.java:562)
+	at org.apache.hive.service.rpc.thrift.TCLIService$Processor$ExecuteStatement.getResult(TCLIService.java:1557)
+	at org.apache.hive.service.rpc.thrift.TCLIService$Processor$ExecuteStatement.getResult(TCLIService.java:1542)
+	at org.apache.thrift.ProcessFunction.process(ProcessFunction.java:39)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:39)
+	at org.apache.hive.service.auth.TSetIpAddressProcessor.process(TSetIpAddressProcessor.java:56)
+	at org.apache.thrift.server.TThreadPoolServer$WorkerProcess.run(TThreadPoolServer.java:286)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+FAILED: ParseException line 1:5 cannot recognize input near 'SHOW' 'INDEX' 'ON' in ddl statement
